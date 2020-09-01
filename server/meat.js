@@ -791,7 +791,6 @@ let userCommands = {
         "i kept asking for admin and now i got muted",
         'I FAP TO FEMMEPYRO NO JOKE',
         'i am not kid',
-        "ACHOO! What was that? Uh-oh looks like you just got coronavirus! Don't you know that the coronavirus is CUMMING to America? The world HOE Organisation is calling HOE-VID19 a POSSIBLE PANTIE-DEMIC! No more touching daddy until you wash your nasty little fingers for secounds with sHOEp and water otherwise it doesn't count! Time to stop spreading your germs and start spreading: your legs! SISSIE ALERT!",
         'i am a gamer girl yes not man no im not man i am gamer girl so give me money and ill giv you my adress <3']
         this.room.emit('talk',{
             text:wtf[Math.floor(Math.random()*wtf.length)],
