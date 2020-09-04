@@ -30,3 +30,5 @@ I'm not responsible if you screw up anything with your computer while setting th
 ## License
 MIT
 None
+
+It is originated from open source of Seamusmario's BonziWORLD Revived.
